@@ -8,7 +8,7 @@ dependencies {
   implementation 'com.google.cloud:google-cloud-storage:1.113.1'
   implementation 'com.google.apis:google-api-services-artifactregistry:v1beta2-rev20220203-1.32.1'
   implementation 'com.google.api-client:google-api-client:1.30.10'
-  implementation 'org.jetbrains.dokka:dokka-gradle-plugin:0.10.1'
+  implementation 'org.jetbrains.dokka:dokka-gradle-plugin:1.5.30'
   implementation 'io.github.gradle-nexus:publish-plugin:1.1.0'
 }
 
